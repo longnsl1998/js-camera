@@ -1,2 +1,1 @@
-# thesunny
-Sunny
+DEMO chụp ảnh từ camera
